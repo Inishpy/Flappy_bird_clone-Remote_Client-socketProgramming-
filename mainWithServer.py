@@ -68,11 +68,11 @@ class MainApp(App):
 	
 	def build(self):
 		
-		self.sound1 = SoundLoader.load('/Assets/oldschool_drums.wav')
+		self.sound1 = SoundLoader.load('./Assets/oldschool_drums.wav')
 		self.sound1.loop = True
 		self.sound1.play()
 
-		self.game_over_sound = SoundLoader.load('/Assets/game_over.wav')
+		self.game_over_sound = SoundLoader.load('./Assets/game_over.wav')
 		self.game_over_sound.bind(on_stop=self.new_game)
 
 
