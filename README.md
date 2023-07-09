@@ -5,8 +5,8 @@ mainOriginal is the simple clone of the game
 
 ## Remote Client Control
 
-![Alt Game demo]('./Assets/game.png')
-![Alt ClientApp]('./Assets/Client.png')
+![Alt Game demo]('../Assets/game.png')
+![Alt ClientApp]('../Assets/Client.png')
 
 mainWithServer.py has the server that can connect to a
 client button.
