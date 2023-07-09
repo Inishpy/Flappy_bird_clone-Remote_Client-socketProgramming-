@@ -4,6 +4,10 @@ Flappy bird game clone using kivy package of python and sqlite3.
 mainOriginal is the simple clone of the game
 
 ## Remote Client Control
+
+![Alt Game demo]('./Assets/game.png')
+![Alt ClientApp]('./Assets/Client.png')
+
 mainWithServer.py has the server that can connect to a
 client button.
 Client folder has the corresponding scripts.
