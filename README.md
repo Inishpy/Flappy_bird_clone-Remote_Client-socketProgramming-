@@ -5,8 +5,7 @@ mainOriginal is the simple clone of the game
 
 ## Remote Client Control
 
-![Alt Game demo](https://github.com/Inishpy/Flappy_bird_clone/blob/main/Assets/Game.png?raw=True)
-![Alt ClientApp]('../Assets/Client.png')
+![Alt Game demo](https://github.com/Inishpy/Flappy_bird_clone/blob/main/Assets/Game.png?raw=true) ![Alt ClientApp](https://github.com/Inishpy/Flappy_bird_clone/blob/main/Assets/Client.png?raw=true)
 
 mainWithServer.py has the server that can connect to a
 client button.
